@@ -6,7 +6,7 @@ import android.util.Log;
  * 定义Logger日志，因为在app手机运行时很耗电，所以开发完成后必须关日志
  * 
  * @author chen.lin
- * test和网络有关
+ * 
  */
 public class Logger {
 
